@@ -1,4 +1,4 @@
-# Speech Source Separation Using Machine Learning
+# Digital Signal Processing in Machine Learning
 Implemented From Scratch in Matlab the following on Speech Signals
 1. DFT & IDFT
 2. STFT & ISTFT
